@@ -1,0 +1,7 @@
+{
+  "name": "kimaris",
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
